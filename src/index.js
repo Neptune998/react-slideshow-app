@@ -7,20 +7,24 @@ import {applyPolyfills, defineCustomElements} from 'h8k-components/loader';
 
 const SLIDES = [
     {
-        title: "Today's workout plan",
-        text: "We're gonna do 3 fundamental exercises."
+        title: "Welcome to Slideshow App",
+        text: "Slideshow App, a simple yet impactful application that allows users to navigate through a collection of slides."
     },
     {
-        title: "First, 10 push-ups",
-        text: "Do 10 reps. Remember about full range of motion. Don't rush."
+        title: "The project requirements outline.",
+        text: "The Slides component should take an array of slides as a prop. Each slide is represented by an object with two properties: title (string) and text (string)."
     },
     {
-        title: "Next, 20 squats",
-        text: "Squats are important. Remember to keep your back straight."
+        title: "Clicking the 'Next' button",
+        text: "Clicking the 'Next' button should display the next slide. This button should be disabled when the current slide is the last one."
     },
     {
-        title: "Finally, 15 sit-ups",
-        text: "Slightly bend your knees. Remember about full range of motion."
+        title: "Clicking the 'Prev' button",
+        text: "Clicking the 'Prev' button should display the previous slide. This button should be disabled when the current slide is the first one."
+    },
+    {
+        title: "Clicking the 'Restart' button",
+        text: " Clicking the 'Restart' button should return the app to the first slide. This button should be disabled when the current slide is the first one."
     },
     {
         title: "Great job!",
