@@ -36,15 +36,17 @@ Please note that the component has the above data-testid attributes for test cas
 - `src/App.test.js`
 
 **Commands**
-- run: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm start
-```
-- install: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm install
-```
-- test: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
-```
+3. Run the App: 
+With the dependencies installed, start the Slideshow App by running:
+
+>>>  npm start
+
+This command will launch a development server and open the app in your default web browser. You'll be able to interact with the slideshow just like in the online demo.
+
+4. Testing the App
+
+To ensure the correctness of your Slideshow App, you can run the provided tests using the following command:
+
+>>>  npm test
+
+These tests will evaluate whether the app meets the specified requirements and functions as expected.
