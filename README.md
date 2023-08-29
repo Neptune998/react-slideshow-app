@@ -1,7 +1,7 @@
 # React: Slideshow App
 
-## Check below Link
-Visit [Complete guide to react SlideShow app](https://neptuneworld.in/blog/react-slideshow-app-hackerrank/){:target="_blank"} 
+# Check below Link for complete guide to react SlideShow app
+[https://neptuneworld.in/blog/react-slideshow-app-hackerrank](https://neptuneworld.in/blog/react-slideshow-app-hackerrank)
 
 ## Environment 
 
