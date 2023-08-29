@@ -1,5 +1,8 @@
 # React: Slideshow App
 
+## Check below link for better understanding
+Visit (https://neptuneworld.in/blog/react-slideshow-app-hackerrank/) 
+
 ## Environment 
 
 - React Version: 16.13.1
